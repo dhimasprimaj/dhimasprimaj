@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Dhimas Primajaya**.<br>
 
-Saya seorang tertarik di bidang **Data Scientist**.<br>
+Saya tertarik di bidang **Data Science**.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dhimas-primajaya-101104268/)ku ya.
 
